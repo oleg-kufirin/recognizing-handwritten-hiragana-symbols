@@ -28,7 +28,7 @@ Output plot for Part 3. On this dataset, learning occurs very fast, with a large
 **Task 1 - View Batch**  
 Whenever developing deep learning models, it is absolutely critical to begin with a complete understanding of the data you are using. For this reason, implement a function that returns an 8x8 tiling of a batch of 64 images produced by one of the dataloaders, and the corresponding labels in a numpy array. Once implemented correctly, you should see he image shown below when running part3.py.
 
-<img src="view_batch.jpg" alt="view_batch" width="600"/>  
+<img src="view_batch.jpg" alt="view_batch" width="400"/>  
 
 First batch of images from KMNIST tiled in 8x8 grid, produced by a correct view_batch
 
